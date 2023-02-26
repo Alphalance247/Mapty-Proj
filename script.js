@@ -1,5 +1,5 @@
 'use strict';
-
+const neewForem = document.querySelector('.form');
 const form = document.querySelector('.form');
 const containerWorkouts = document.querySelector('.workouts');
 const inputType = document.querySelector('.form__input--type');
